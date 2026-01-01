@@ -1,0 +1,32 @@
+{
+  "error": false,
+
+  "approved": [
+    {
+      "telegram_id": 7807425271,
+      "bot_id": 8576202582:AAE9-kwUUURhka5upa7G1yx3TOcwvdhDwqc,
+      "license": "LIC-AAA-111",
+      "token_hash": "e3b0c44298fc1c149afbf4c8996fb924"
+    }
+  ],
+
+  "blacklist": [
+    {
+      "telegram_id": 987654321,
+      "bot_id": 888888888,
+      "reason": "NO_APPROVE",
+      "token_hash": "9f86d081884c7d659a2feaa0c55ad015"
+    }
+  ],
+
+  "licenses": {
+    "LIC-AAA-111": {
+      "status": "active",
+      "expired": "2026-01-01"
+    },
+    "LIC-BBB-222": {
+      "status": "revoked",
+      "expired": "2025-01-01"
+    }
+  }
+}
