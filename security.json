@@ -4,29 +4,17 @@
   "approved": [
     {
       "telegram_id": 8248734943,
-      "bot_id": 8215168281:AAEK_xqn_hpKGmKLnj78J5IQ9D4U78LyspE,
-      "license": "LIC-AAA-111",
-      "token_hash": "e3b0c44298fc1c149afbf4c8996fb924"
+      "bot_id": 8215168281,
+      "token_hash": "0233ab5dceb3a91b7d198f5d38d04c00fc5a8d6fc8b8f559cf82a9afdde1da"
     }
   ],
 
-  "blacklist": [
-    {
-      "telegram_id": 987654321,
-      "bot_id": 888888888,
-      "reason": "NO_APPROVE",
-      "token_hash": "9f86d081884c7d659a2feaa0c55ad015"
-    }
-  ],
+  "blacklist": [],
 
   "licenses": {
     "LIC-AAA-111": {
       "status": "active",
-      "expired": "2026-01-01"
-    },
-    "LIC-BBB-222": {
-      "status": "revoked",
-      "expired": "2025-01-01"
+      "expired": "2026-12-31"
     }
   }
 }
